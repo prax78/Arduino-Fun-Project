@@ -7,7 +7,7 @@
 ** Build your Flutter app shared the main.dart and pubspec.yaml**
 
 
- ** More details, please visit my blog/ **
+ ** More details, please visit my blog/ https://prakash78blog.wordpress.com/2021/04/12/arduino-fun-tones-with-a-flutter-app/**
  
  
     ** How To***
